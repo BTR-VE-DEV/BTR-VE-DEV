@@ -1,48 +1,40 @@
-# Hola, soy BTR-VE-DEV 👋
+# ¡Hola, soy BTR-VE-DEV! 👋
 
-Soy estudiante de Ingeniería en Informática, enfocado en desarrollo web, Linux, Python y ciberseguridad.
+🎓 Estudiante de Ingeniería en Informática, interesado en el desarrollo de software, la programación, Linux y la ciberseguridad.
 
-Actualmente estoy fortaleciendo mi entorno de trabajo con WSL2, Ubuntu, Git, GitHub y laboratorios controlados para aprender buenas prácticas de desarrollo y seguridad.
+Actualmente estoy fortaleciendo mis conocimientos en **Rust, Python, JavaScript y TypeScript**, desarrollando proyectos prácticos y explorando herramientas de ingeniería de software.
 
-## Áreas de interés
+## 🚀 Áreas de interés
 
-- Desarrollo web
-- Backend
-- Linux
-- Python
-- Git y GitHub
-- Ciberseguridad
-- Administración de servidores
-- Redes y seguridad defensiva
+- Desarrollo de software y aplicaciones web.
+- Backend y arquitectura de sistemas.
+- Programación con Rust y Python.
+- Bases de datos y automatización.
+- Linux, redes y ciberseguridad defensiva.
+- Contenedores e infraestructura con Docker.
 
-## Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Python
-- MySQL
-- MongoDB
-- Git
-- GitHub
-- Linux / Ubuntu
-- WSL2
-- VirtualBox
-- Kali Linux
+**Lenguajes:** Rust, Python, JavaScript, TypeScript, PHP, HTML y CSS.
 
-## Ruta de aprendizaje actual
+**Bases de datos:** PostgreSQL, MySQL y MongoDB.
 
-- Configuración de entorno profesional con Windows + WSL2 Ubuntu.
-- Laboratorios de Linux y Python.
-- Control de versiones con Git y GitHub.
-- Prácticas de ciberseguridad en entornos locales y controlados.
-- Formación complementaria en ciberseguridad mediante Cisco Networking Academy.
+**Desarrollo:** Visual Studio Code, Git, GitHub, Node.js y Django.
 
-## Objetivo profesional
+**Infraestructura:** Docker, WSL2, Ubuntu y VirtualBox.
 
-Seguir construyendo una base sólida como profesional TI, desarrollando proyectos prácticos, documentados y orientados a resolver problemas reales.
+## 📚 Aprendizaje actual
+
+- Profundización en Rust y programación de sistemas.
+- Desarrollo y depuración de aplicaciones.
+- Buenas prácticas de calidad y seguridad del código.
+- Diseño de soluciones escalables.
+- Administración de entornos de desarrollo y servicios.
+
+## 🎯 Objetivo profesional
+
+Seguir creciendo como ingeniero en informática, construyendo soluciones eficientes, seguras, mantenibles y orientadas a resolver problemas reales.
 
 ---
 
-> Aprender tecnología no es solo usar herramientas, sino entender cómo funcionan por dentro.
+*La tecnología se domina comprendiendo sus fundamentos, no solamente utilizando sus herramientas.*
