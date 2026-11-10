@@ -1,4 +1,4 @@
-# Hola, soy Brucknney 👋
+# Hola, soy BTR-VE-DEV 👋
 
 Soy estudiante de Ingeniería en Informática, enfocado en desarrollo web, Linux, Python y ciberseguridad.
 
