@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería en Informática, interesado en el desarrollo de software, la programación, Linux y la ciberseguridad.
 
-Actualmente estoy fortaleciendo mis conocimientos en **Rust, Python, JavaScript y TypeScript**, desarrollando proyectos prácticos y explorando herramientas de ingeniería de software.
+Actualmente estoy fortaleciendo mis conocimientos en **Rust**, desarrollando proyectos prácticos y explorando herramientas de ingeniería de software.
 
 ## 🚀 Áreas de interés
 
